@@ -26,3 +26,29 @@ if (giftRecipient === 'Men') {
 } else {
     alert('Enjoy your shopping');
 }
+
+/*
+- Boolean : True or false;
+*/
+console.log(2+3);
+var age;
+var myAge;
+var myFullName;
+
+var userInput;
+userInput = 30;
+
+
+console.log(userInput);
+
+var test = userInput * 25 / 3 + 14;
+console.log(test);
+
+var date = new Date();
+console.log(date);
+
+
+
+
+
+
