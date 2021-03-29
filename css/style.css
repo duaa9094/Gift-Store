@@ -1,0 +1,27 @@
+li {
+    list-style-type: none;
+    display: inline;
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+header {
+    text-align: center;
+
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding: 10px;
+    background-color: white;
+}
+
+footer {
+    text-align: center;
+}
+ 
+h3{
+    background-color: #deb88747;
+    padding-left: 10px
+}
