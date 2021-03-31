@@ -19,9 +19,24 @@ p {
 
 footer {
     text-align: center;
+    height: 90px;
+    line-height: 90px;
+    background-color: #b3e1ab;
 }
  
 h3{
-    background-color: #deb88747;
-    padding-left: 10px
+        padding-left: 10px
+}
+
+a {
+    text-decoration: ;
+    color: hsl (338deg 100% 59%);
+  }
+
+#special {
+
+}
+
+.common {
+
 }

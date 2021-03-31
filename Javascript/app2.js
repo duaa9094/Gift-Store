@@ -1,6 +1,6 @@
 
 function validatePassword (){
-    var password = prompt("Please enter your password");
+    var password = prompt('Please enter your password');
 
     while (password !== 'duaa') {
         password = prompt("Please enter the correct password.'Hint for testing only , correct password is duaa'");
